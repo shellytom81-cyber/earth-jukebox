@@ -1,0 +1,6 @@
+{
+  "name": "Earth Jukebox",
+  "description": "Accessible Earth science sonification web app for NASA Space Apps Challenge 2026 that converts NASA Earth Information Center visualizations into C major pentatonic audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
